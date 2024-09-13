@@ -84,3 +84,8 @@ The web scraping feature still works, but the website has updated its table layo
 ## Paper
 
 For a detailed analysis and methodology, please refer to the paper available in this GitHub repository in either Word or PDF format.
+
+## References
+
+1. [WebScraping](https://www.youtube.com/watch?v=JGQGd-oa0l4)
+2. [Predicting the NBA MVP with Machine Learning](https://towardsdatascience.com/predicting-the-nba-mvp-with-machine-learning-c3e5b755f42e)
